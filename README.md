@@ -42,7 +42,6 @@ Your self-evaluation should address the following areas as **indicators**, not r
 
 If your proposed grade differs significantly from your assigned grade, I will provide you with a written explanation and an opportunity to discuss the matter with me.
 
----
 
 ## 📌 Key Areas for Reflection
 
@@ -72,7 +71,6 @@ If your proposed grade differs significantly from your assigned grade, I will pr
 - Did your code meet the assignment requirements?
 - Did it reflect clear logic, correct functionality, and effort to improve based on feedback?
 
----
 
 ## 📣 Final Thoughts
 
