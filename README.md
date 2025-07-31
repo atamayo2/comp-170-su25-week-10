@@ -26,13 +26,13 @@ Review the [posted solutions from the previous assignment](./solutions_week09.py
 
 * You did not test your methods to verify they work property.
 
-## Reflect (on the course)
+
+# Reflect (on the course)
 
 *Write the reflection for the course in a file named `final_reflection`. This can be a txt file or a markdown file. The last paragraph of your reflection should be a sentence in the form: "Based on the above, I propose X as my final grade.* Replace X with A, B, C, or D.
 
 As part of this course’s approach to **ungrading**, your final reflection is an opportunity to evaluate your own learning, growth, and contributions. You will also propose your **final course grade** (**A**, **B**, **C**, or **D**). Please do not use pluses or minuses; I may apply them if I believe it’s appropriate based on your reflection and overall performance.
 
----
 
 ## 🧠 Framing the Reflection
 
